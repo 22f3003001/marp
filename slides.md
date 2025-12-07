@@ -45,6 +45,9 @@ Product documentation serves as the bridge between:
 - End users
 - Stakeholders
 
+
+![bg](image-url)
+
 Good documentation is:
 * Clear and concise
 * Maintainable
